@@ -7,7 +7,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Foxems/LRAM/releases/latest"><img src="docs/art/btn-download.svg" alt="Download: Windows zip, free" width="290"></a>
   <a href="src/Lantern"><img src="docs/art/btn-source.svg" alt="Source: read it, build it" width="290"></a>
   <a href="https://github.com/Foxems/LRAM/issues"><img src="docs/art/btn-issues.svg" alt="Issues: bugs and ideas" width="290"></a>
 </p>
